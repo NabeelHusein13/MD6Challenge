@@ -1,12 +1,21 @@
-html, body, .container-fluid, .content-row {
-    height: 100%;
+ion-icon {
+    color:whitesmoke;
+    --ionicon-stroke-width: 80px;
+  }
+
+.green{
+  background-color: green;
+}
+.yellow{
+  background-color: yellow;
+}
+.orange{
+  background-color: orange;
+}
+.red{
+  background-color: red;
 }
 
-.city-btn:hover {
-    background-color: #f6f5f5;
-    cursor: pointer;
-}
-
-.card {
-    background-color: #a7a8ff;
+.purple{
+  background-color: purple;
 }
