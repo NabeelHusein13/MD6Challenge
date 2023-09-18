@@ -1,4 +1,4 @@
-# MD6Challenge
+# Weather Dashboard
 Server-Side APIs Challenge: Weather Dashboard
 Description
 This Weather Dashboard application allows travelers to check the weather outlook for multiple cities, helping them plan their trips accordingly. It utilizes third-party APIs, specifically the OpenWeather API, to retrieve weather data for cities and displays both current and future weather conditions.
